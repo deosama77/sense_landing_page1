@@ -1,0 +1,11 @@
+.click_icon{
+    transition: .4s;
+    cursor: pointer;
+}
+
+.click_icon:hover{
+    width: 357px;
+    height: 100px;
+    opacity: .9;
+
+}

@@ -1,0 +1,87 @@
+.bgimg_1 , .bgimg_2  , .bgimg_3  , .bgimg_4  , .bgimg_5 , .bgimg_6  , .bgimg_7
+,.bgimg_8 , .bgimg_9 , .footer_image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+.bgimg_1 {
+    background-image: url('../public/images/landing_01.jpg');
+    height: 100vh;
+    position: relative;
+    background-origin: padding-box;
+}
+.bgimg_2 {
+    background-image: url('../public/images/landing_02.jpg');
+    height: 100vh;
+    position: relative;
+}
+.bgimg_3 {
+    background-image: url('../public/images/landing_03.jpg');
+    height: 100vh;
+    position: relative;
+}
+.bgimg_4 {
+    background-image: url('../public/images/landing_04.jpg');
+    height: 100vh;
+    position: relative;
+}
+.bgimg_5 {
+    background-image: url('../public/images/landing_05.jpg');
+    height: 100vh;
+    position: relative;
+}
+.bgimg_6 {
+    background-image: url('../public/images/landing_06.jpg');
+    height: 100vh;
+    position: relative;
+}
+.bgimg_7 {
+    background-image: url('../public/images/landing_07.jpg');
+    height: 100vh;
+    position: relative;
+}
+.bgimg_8 {
+    background-image: url('../public/images/landing_08.jpg');
+    height: 100vh;
+    position: relative;
+}
+.bgimg_9 {
+    background-image: url('../public/images/landing_09.jpg');
+    height: 100vh;
+    position: relative;
+}
+
+
+.container_click_icon{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.container_click_icon_4{
+    top: 340px;
+    position: absolute;
+    left: 110px;
+}
+
+.container_click_icon_8{
+    bottom: 10px;
+    position: absolute;
+    right: 296px;
+}
+
+.container_click_icon_9{
+    bottom: 10px;
+    position: absolute;
+    left: 200px;
+}
+
+.image_l_9{
+    width: 100%;
+    height: 560px;
+    padding: 0px;
+    margin: 0px;
+}
+
